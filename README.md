@@ -16,3 +16,6 @@ cp .env.example .env
 Чтобы запустить тесты с покрытием нужно настроить phpstrom на работу с PHP внутри контейнера web и web_test
 
 ![PHP settings](https://github.com/buyanov/landing-sample/blob/master/docs/php-settings.png?raw=true)
+![Tests settings](https://github.com/buyanov/landing-sample/blob/master/docs/tests-config.png?raw=true)
+![Run tests with coverage](https://github.com/buyanov/landing-sample/blob/master/docs/run-tests.png?raw=true)
+
