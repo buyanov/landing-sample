@@ -1,0 +1,15 @@
+includes:
+    - ./vendor/phpstan/phpstan-strict-rules/rules.neon
+
+parameters:
+    level: 8
+
+    paths:
+        - ./app
+
+    excludes_analyse:
+        - ./vendor/*
+        - ./public/*
+        - ./tests/*
+
+    checkGenericClassInNonGenericObjectType: false

@@ -1,0 +1,18 @@
+<yandex>
+    <users>
+        <buyanov>
+            <password_sha256_hex>62047f0adcee72ece6b187cecfaf5db2851dd3595d83cd71e1fb254324a12291</password_sha256_hex>
+            <networks>
+                <ip>::/0</ip>
+            </networks>
+            <default_database>activity</default_database>
+            <databases>
+                <database_name>
+                    <table_name>
+                        <filter>activity</filter>
+                    </table_name>
+                </database_name>
+            </databases>
+        </buyanov>
+    </users>
+</yandex>
